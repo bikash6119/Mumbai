@@ -1,1 +1,12 @@
-India is my country
+Incident Record: INC000005947752 || Helix - Searches Unavailable
+Outage Start: Thu 03/08/2023 17:00
+MIM Notified At: Thu 03/08/2023 17:35
+Managing Support Team: NTT Data
+Identified By: Customer Service Impact
+
+Searches within Helix ITSM are failing and returning and SQL error.
+Activity data is not showing within agents views.
+
+Customer Experience
+Users in Helix are unable to make searches within the Helix application.
+They also report being unable to view activity data.
